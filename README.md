@@ -1,6 +1,6 @@
 # VocTrainer
 
-Dieser Vokabeltrainer verfügt über folgende Funktionen:
+## Dieser Vokabeltrainer verfügt über folgende Funktionen:
 
 - Bearbeiten, Löschen und Hinzufügen von Vokabeln inklusive Anmerkungen, Trainigsstatistik, Speicherdatum und letzter Übubngstermin
 - Erstellen unterschiedlicher Lektionen (Sprachen)
